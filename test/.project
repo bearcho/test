@@ -16,4 +16,10 @@
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 		<nature>tern.eclipse.ide.core.ternnature</nature>
 	</natures>
+	<variableList>
+		<variable>
+			<name>NODE_JS</name>
+			<value>file:/D:/Program%20Files%20(x86)/nodejs/node_modules/npm/node_modules</value>
+		</variable>
+	</variableList>
 </projectDescription>
